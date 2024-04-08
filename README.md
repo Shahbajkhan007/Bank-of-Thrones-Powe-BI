@@ -7,6 +7,8 @@ Please check the Interactive PowerBI report here : https://app.powerbi.com/group
 
 LinkedIn Post for more info : 
 
+Please also check ppt and pdf for indepth explanation and recommendations
+
 **Project Overview**
 
 **Data Preparation and Cleaning**
