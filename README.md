@@ -3,9 +3,9 @@
 **Power BI Data Analytics Project: The Bank of Thrones**
 
 Welcome to the GitHub repository for the data analytics project conducted for "The Bank of Thrones" using Power BI. This project involved in-depth data analysis and visualization techniques to derive actionable insights from ATM transactions data across multiple kingdoms.
-Please check the Interactive PowerBI report here : https://app.powerbi.com/groups/me/reports/c9a73c28-2532-4e6c-95ae-007338175f29/ReportSection9f22f5e7380acce1c723?experience=power-bi&bookmarkGuid=Bookmarkeaa42207cc1c0c042093
+Please check the Interactive PowerBI report here : https://bit.ly/4apRToy
 
-LinkedIn Post for more info : 
+LinkedIn Post for more info : https://www.linkedin.com/feed/update/urn:li:activity:7183108834964512768/
 
 Please also check ppt and pdf for indepth explanation and recommendations
 
