@@ -1,0 +1,51 @@
+﻿LocationID,Location Name,No of ATMs,City,Kingdom,Country
+LA-001,Wisabi Bank HQ,7,Winterfell,The North,Westeros
+LA-002,Victoria Island ATM,3,Winterfell,The North,Westeros
+LA-003,Ikeja ATM,3,Winterfell,The North,Westeros
+LA-004,Lekki ATM,3,Winterfell,The North,Westeros
+LA-005,Surulere ATM,3,Winterfell,The North,Westeros
+LA-006,Festac ATM,3,Winterfell,The North,Westeros
+LA-007,Apapa ATM,3,Winterfell,The North,Westeros
+LA-008,Ikorodu ATM,3,Winterfell,The North,Westeros
+LA-009,Yaba ATM,3,Winterfell,The North,Westeros
+LA-010,Maryland ATM,3,Winterfell,The North,Westeros
+LA-011,Ajah ATM,3,Winterfell,The North,Westeros
+LA-012,Oshodi ATM,3,Winterfell,The North,Westeros
+LA-013,Ogba ATM,3,Winterfell,The North,Westeros
+LA-014,Ikoyi ATM,3,Winterfell,The North,Westeros
+LA-015,Agege ATM,3,Winterfell,The North,Westeros
+KN-001,Wisabi Bank Kano Branch ATM,5,Sunspear,Dorne,Westeros
+KN-002,Sabon Gari ATM,2,Sunspear,Dorne,Westeros
+KN-003,Fagge ATM,2,Sunspear,Dorne,Westeros
+KN-004,Nassarawa ATM,2,Sunspear,Dorne,Westeros
+KN-005,Kofar Ruwa ATM,2,Sunspear,Dorne,Westeros
+KN-006,Tarauni ATM,2,Sunspear,Dorne,Westeros
+KN-007,Dala ATM,2,Sunspear,Dorne,Westeros
+KN-008,Gwale ATM,2,Sunspear,Dorne,Westeros
+KN-009,Ungogo ATM,2,Sunspear,Dorne,Westeros
+KN-010,Warawa ATM,2,Sunspear,Dorne,Westeros
+FC-001,FCT Abuja ATM,5,Stormsend,The Stormlands,Westeros
+FC-002,Kubwa ATM,2,Stormsend,The Stormlands,Westeros
+FC-003,Garki ATM,2,Stormsend,The Stormlands,Westeros
+FC-004,Maitama ATM,2,Stormsend,The Stormlands,Westeros
+FC-005,Wuse ATM,2,Stormsend,The Stormlands,Westeros
+FC-006,Lugbe ATM,2,Stormsend,The Stormlands,Westeros
+EN-001,Enugu ATM,5,Highgarden,The Reach,Westeros
+EN-002,Nsukka ATM,2,Oldtown,The Reach,Westeros
+EN-003,Agbani ATM,2,Highgarden,The Reach,Westeros
+EN-004,Abakpa ATM,2,Highgarden,The Reach,Westeros
+EN-005,Awgu ATM,2,Brightwater,The Reach,Westeros
+EN-006,Oji River ATM,2,Ashford,The Reach,Westeros
+EN-007,Udi ATM,2,Tumbleton,The Reach,Westeros
+EN-008,Nkanu ATM,2,Three Towers,The Reach,Westeros
+EN-009,Emene ATM,2,Highgarden,The Reach,Westeros
+RI-001,Port Harcourt ATM,5,Casterly Rock,The Westerlands,Westeros
+RI-002,Bonny ATM,2,Lanisport,The Westerlands,Westeros
+RI-003,Okrika ATM,2,Sarsfield,The Westerlands,Westeros
+RI-004,Obio-Akpor ATM,2,Crakehall,The Westerlands,Westeros
+RI-005,Eleme ATM,2,Deepden,The Westerlands,Westeros
+RI-006,Emohua ATM,2,Hornvel,The Westerlands,Westeros
+RI-007,Gokana ATM,2,Kayce,The Westerlands,Westeros
+RI-008,Oyigbo ATM,2,Golden Tooth,The Westerlands,Westeros
+RI-009,Ahoada ATM,2,Banefort,The Westerlands,Westeros
+RI-010,Opobo ATM,2,Silverhill,The Westerlands,Westeros
